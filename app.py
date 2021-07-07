@@ -9,3 +9,5 @@ def index():
 @app.route('/check2', methods=["GET"])
 def index():
     return "Running Check2..."
+
+
